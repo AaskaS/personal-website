@@ -1,0 +1,42 @@
+.Work-logo {
+  /*margin-top: -15vh;
+      margin-left: 25vh;*/
+  align-items: center;
+  height: 30vmin;
+  pointer-events: none;
+  margin: 0 0 0 0;
+}
+
+.header {
+  background-color: #212121;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Work-header {
+  background-color: #212121;
+  /*display: flex;
+  align-items: center;*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.loblaw {
+  height: 8vmin;
+}
+
+.thales {
+  height: 8vmin;
+}
+
+.workpar{
+  margin-left:2em;
+}

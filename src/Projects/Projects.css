@@ -1,0 +1,40 @@
+.Project-logo {
+    /*margin-top: -15vh;
+      margin-left: 25vh;*/
+    align-items: center;
+    height: 30vmin;
+    pointer-events: none;
+    margin: -1em 0 0 0;
+  }
+  
+  .Project-header {
+    background-color: #212121;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*justify-content: center;*/
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+
+  .header {
+    background-color: #212121;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*justify-content: center;*/
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  
+  .icon {
+    margin: 0 0.5em 0 0.5em;
+  }
+
+  .special{
+    color: #aab3ff;
+    font-size: 0.6em;
+  }

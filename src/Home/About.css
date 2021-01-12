@@ -1,0 +1,66 @@
+.About-header {
+  background-color: #212121;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* display: flex;
+
+    */
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.header {
+  margin-top: 1em;
+  background-color: #212121;
+  display: flex;
+  flex-direction: column;
+  /*align-items: center;
+    justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.headerknit {
+  margin-left: 10em;
+  background-color: #212121;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.box {
+  font-size: 0.75em;
+  color: #7986cb;
+}
+
+.aboutpar {
+  margin-left: 2em;
+}
+
+.picknit {
+  height: 8em;
+  margin-left: 1em;
+}
+
+.pic {
+  height: 15em;
+  margin-left: 1em;
+}
+
+.head {
+  margin-left: 1em;
+}
+
+.head2{
+  margin: -2em 0 0 5em;
+}
+
+.hobbies {
+  margin-top: -3em;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
