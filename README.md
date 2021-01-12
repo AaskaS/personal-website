@@ -1,2 +1,2 @@
-# personal-website
-Working on personal website using React
+# Portfolio Website
+Working on my personal website using React
